@@ -3,18 +3,7 @@
 C++ programming intern at codeAlpha
 
 
-*******XOXOX************XOXOX****************
-
-		TASK 1
- TO-DO LIST APPLICATION
- Build a console-based to-do list application.
- Users should be able to add tasks, mark them as
- completed, and view their current tasks.
-
-
-*******XOXOX************XOXOX****************
-
-		C++
+C++
  TASK LIST
  CodeAlpha offers internship opportunities in C++
  programming, providing you with an opportunity to
@@ -22,6 +11,15 @@ C++ programming intern at codeAlpha
  with guidance, enabling your participation in real-world
  software development projects to enhance your
  programming skills.
+
+
+*******XOXOX************XOXOX****************
+
+		TASK 1
+ TO-DO LIST APPLICATION
+ Build a console-based to-do list application.
+ Users should be able to add tasks, mark them as
+ completed, and view their current tasks.
 
 
 *******XOXOX************XOXOX****************

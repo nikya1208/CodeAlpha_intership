@@ -3,17 +3,6 @@
 C++ programming intern at codeAlpha
 
 
-C++
- TASK LIST
- CodeAlpha offers internship opportunities in C++
- programming, providing you with an opportunity to
- become a proficient C++ developer. We will provide you
- with guidance, enabling your participation in real-world
- software development projects to enhance your
- programming skills.
-
-
-*******XOXOX************XOXOX****************
 
 		TASK 1
  TO-DO LIST APPLICATION
@@ -21,8 +10,6 @@ C++
  Users should be able to add tasks, mark them as
  completed, and view their current tasks.
 
-
-*******XOXOX************XOXOX****************
 
 		code Explanation :
 
